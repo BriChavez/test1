@@ -9,7 +9,7 @@ h1 {
   text-align: center;
   color: rgb(107, 163, 10);
   float: center;
-  font-size: 500%;
+  font-size: 400%;
   text-decoration: underline;
   text-decoration-color: rgb(142, 72, 145);
   text-decoration-thickness: 5px;
@@ -46,19 +46,47 @@ h2 {
   padding-left: 20px;
 }
 
-.hobbies {
-  padding-top: 8%;
-  color: rgba(34, 121, 8, 0.801);
-  text-align: center;
+.mainpic3 {
+  width: 15%;
+  float: right
 }
 
 h3 {
   text-align: center;
 }
 
-.container2 {
+.container1 {
   padding-top: 8%;
+  text-align: left;
+}
+
+h4 {
+  
+  text-decoration: overline rgb(96, 43, 139) 7px;
+  color: rgb(180, 90, 189);
+  font-size: 200%;
+}
+
+h {
+  color: rgb(96, 43, 139);
+  padding-top: 15px;
+  text-decoration: underline rgb(180, 90, 189) 5%;
+  font-size: 150%;
+}
+
+p {
+  color:rgb(34, 121, 8)
+}
+
+
+
+h3 {
   text-align: center;
+}
+
+.container {
+  padding-top: 8%;
+  text-align: right;
 }
 
 h4 {
@@ -75,7 +103,7 @@ h5 {
   font-size: 150%;
 }
 
-p {
+p1 {
   color:rgb(34, 121, 8)
 }
 
