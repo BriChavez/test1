@@ -1,37 +1,36 @@
-# _{Application Name}_
+# _{Test1}_
 
-#### By _**{List of contributors}**_
+#### By _**{BriChavez}**_
 
-#### _{Brief description of application}_
+#### _{Website faturing and showcasing what I have learned so far}_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _Visiual Studio Code_
+* _CSS_
+* _Bootstrap_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_{My application has information about me. It includes pictures, an about me, some of my hobbies, descriptions of some of the projects i have worked on, and links to the repositories on github.}_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Open the terminal._
+* _Make a folder that you want to run the program out of._
+* _Clone this repository to that folder._
+* _Navigate to the file labled index.html_
+* _Open index.html in your browser_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _There are some issues with the spacing of the first container_
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{If you run into and bugs or something that could use help being cleaned up, dont hesitate to contact me at brianachavez@gmail.com.}_
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _March 18th 2022_ _BriChavez_
