@@ -17,15 +17,19 @@ h2 {
   border: 50px soild rgb(142, 72, 145);
 }
 
-.mainpic {
+.mainpic1 {
   width: 25%;
   float: left;
   padding-right: 20px;
-
 }
 
 .mainpic2 {
   width: 25%;
   float: right;
   padding-left: 20px;
+}
+
+.hobbies {
+  color: rgb(34, 121, 8);
+  text-align: center;
 }
