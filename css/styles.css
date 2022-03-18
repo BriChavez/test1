@@ -1,5 +1,8 @@
 body {
   background-color: rgb(56, 18, 75);
+  margin-right: 10px;
+  margin-left: 10px;
+  
 }
 
 h1 {
@@ -22,7 +25,10 @@ h1 {
 
 ul {
   text-align: center;
+  list-style-position: inside;
+  list-style-type: disc;
 }
+
 h2 {
   color: rgb(34, 121, 8);
   border: 50px soild rgb(142, 72, 145);
@@ -41,16 +47,35 @@ h2 {
 }
 
 .hobbies {
-  background-color: aliceblue;
-  color: rgb(34, 121, 8);
+  padding-top: 8%;
+  color: rgba(34, 121, 8, 0.801);
   text-align: center;
-}
-
-span {
-  position: center;
-  right: 20%;
 }
 
 h3 {
   text-align: center;
 }
+
+.container2 {
+  padding-top: 8%;
+  text-align: center;
+}
+
+h4 {
+  
+  text-decoration: overline rgb(96, 43, 139) 7px;
+  color: rgb(180, 90, 189);
+  font-size: 200%;
+}
+
+h5 {
+  color: rgb(96, 43, 139);
+  padding-top: 15px;
+  text-decoration: underline rgb(180, 90, 189) 5%;
+  font-size: 150%;
+}
+
+p {
+  color:rgb(34, 121, 8)
+}
+
