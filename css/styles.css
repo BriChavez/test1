@@ -12,6 +12,14 @@ h1 {
   text-decoration-thickness: 5px;
 }
 
+.odd {
+  color: rgb(142, 72, 145);
+  text-decoration: underline;
+  text-decoration-color: rgb(107, 163, 10);
+  text-decoration-thickness: 5px;
+  font-size: 200%;
+}
+
 h2 {
   color: rgb(34, 121, 8);
   border: 50px soild rgb(142, 72, 145);
@@ -31,5 +39,9 @@ h2 {
 
 .hobbies {
   color: rgb(34, 121, 8);
+  text-align: left;
+}
+
+h3 {
   text-align: center;
 }
