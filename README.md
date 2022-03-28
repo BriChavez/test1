@@ -27,6 +27,9 @@ My application has information about me. It includes pictures, an about me, some
 
 ## Setup/Installation Requirements
 
+*  _Follow link https://github.com/BriChavez/test1.git._
+
+*  _Copy the URL link.>
 
 *  _Open the terminal._
 
