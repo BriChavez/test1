@@ -2,7 +2,6 @@ body {
   background-color: rgb(56, 18, 75);
   margin-right: 10px;
   margin-left: 10px;
-  
 }
 
 h1 {
@@ -23,10 +22,19 @@ h1 {
   font-size: 200%;
 }
 
+ol {
+  color: rgb(34, 121, 8);
+}
+
 ul {
   text-align: center;
   list-style-position: inside;
   list-style-type: disc;
+  color: rgb(34, 121, 8);
+}
+
+li {
+  margin-left: 30px;
 }
 
 h2 {
@@ -38,7 +46,6 @@ h2 {
   width: 25%;
   float: left;
   margin-right: 20px;
-  
 }
 
 .mainpic2 {
@@ -52,29 +59,29 @@ h2 {
   float: right
 }
 
+.list li {
+  width: auto;
+  float: left;
+}
+
 h3 {
   text-align: center;
 }
 
 .container1 {
   padding-top: 15%;
-  text-align: left;
+  text-align: right;
 }
 
 .col-6 {
   text-align: left;
 }
 
-ul {
-  text-align: left;
-  color: rgb(34, 121, 8);
-}
-
 h4 {
-  
   text-decoration: overline rgb(96, 43, 139) 7px;
   color: rgb(180, 90, 189);
   font-size: 200%;
+  padding-top: 30px;
 }
 
 h {
@@ -94,7 +101,7 @@ h3 {
 
 .container {
   padding-top: 8%;
-  text-align: right;
+  text-align: left;
   padding-bottom: 30px;
 }
 
