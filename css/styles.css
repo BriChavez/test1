@@ -37,13 +37,14 @@ h2 {
 .mainpic1 {
   width: 25%;
   float: left;
-  padding-right: 20px;
+  margin-right: 20px;
+  
 }
 
 .mainpic2 {
   width: 25%;
   float: right;
-  padding-left: 20px;
+  margin-left: 20px;
 }
 
 .mainpic3 {
@@ -115,4 +116,7 @@ p1 {
   padding-bottom: 200%;
 }
 
+img {
+  border: 5px solid rgb(180, 90, 189);
+}
 
